@@ -1,4 +1,4 @@
-# GameHub System
+Banco de dados
 CREATE TABLE generos (
     id_genero INT PRIMARY KEY,
     nome_genero VARCHAR(100) NOT NULL,
