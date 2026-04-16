@@ -22,7 +22,6 @@ O objetivo é tornar a gestão de jogos mais organizada, prática e digital.
 * Cadastro de jogos
 * Organização por categorias e gêneros
 * Controle de biblioteca de games
-* Gerenciamento de usuários
 * Painel administrativo
 
 ---
